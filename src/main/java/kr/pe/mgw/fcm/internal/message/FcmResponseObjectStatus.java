@@ -4,12 +4,12 @@ import com.google.gson.annotations.SerializedName;
 
 /**
  * <pre>
- *   Firebase Cloud Message 응답 개체 상태 데이터
- *   <a href="https://firebase.google.com/docs/cloud-messaging/http-server-ref?hl=ko" target="_blank">FCM HTTP API 참조하기</a>
+ * Firebase Cloud Message 응답 개체 상태 데이터
+ * <a href="https://firebase.google.com/docs/cloud-messaging/http-server-ref?hl=ko" target="_blank">FCM HTTP API 참조하기</a>
  * </pre>
  * <pre>
  * <b>History:</b>
- * 		Moon Gwi Woo, 1.0, 2019-09-07 초기작성
+ * Moon Gwi Woo, 1.0, 2020-05-11 초기작성
  * </pre>
  * @author Moon Gwi Woo
  * @version 1.0
