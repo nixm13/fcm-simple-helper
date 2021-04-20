@@ -23,7 +23,7 @@ public class FcmSimpleHelperTest {
 
 	@Before
 	public void setUp() throws Exception {
-		serverKey = "AAAApwW7JXY:APA91bEebfh1GKIjdWQhd_TLB4vsO9gluvc-A2pNPvMq8SGsP_Wy1Xc-OD67O-j4RYtbUCRoqhPi7oxZb6zTg77n4oShGEyab7AS7nX5YPgn3a-GjVE9OeijW5xn6Utk_jhk0c0bO9KJ";
+		serverKey = "";
 		reqMsg = new FcmRequestMessage();
 		reqMsg.setTo("aaa");
 	}
